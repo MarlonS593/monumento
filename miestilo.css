@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 0; 
+    overflow: scroll; 
+    background-color:rgb(163, 199, 253);
+}
+h1{
+    color:rgb(248, 248, 248);
+    text-shadow: 2px 2px 5px coral;
+}
+h2{
+    color:white;
+}
+.contact h3{
+    font-size: 30;
+    background: darkgray;
+    margin: 0 30em 0 30em;
+    
+}
+p{ 
+    text-align: justify;
+    padding-right: 5em;
+    background-color: rgb(255, 255, 255);  
+    font-size: 24px;  
+}
+.display{
+   background-color:royalblue;   
+}
+
+.navbar a{
+    background: rgb(0, 22, 51);
+    margin: 0 0.5em 0 0.5em;
+    padding:0.5em;
+    border-left: 10px solid cyan;
+    border-radius: 6px;
+    font-size: 20px;
+    color:cyan;
+}
+.contact p{
+background:rgb(163, 199, 253) ;
+font-size:12px;
+}
